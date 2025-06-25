@@ -1,4 +1,4 @@
 cd /d %~dp0
-:: Develop server
 python -B run_linkplay_server.py
+python -B linklog_v2.py
 pause
